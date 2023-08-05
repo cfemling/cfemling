@@ -1,8 +1,8 @@
 My name is Cassidy.
 
-I am a sophomore in Computer Science at Washington State University Vancouver.
+I am a senior in Computer Science at Washington State University Vancouver.
 
-This is my portfolio of personal projects.
+This is my portfolio.
 
 <!---
 cfemling/cfemling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
